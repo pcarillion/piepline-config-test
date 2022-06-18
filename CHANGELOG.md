@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/pcarillion/piepline-config-test/compare/v1.0.0...v1.1.0) (2022-06-18)
+
+
+### Features
+
+* test for a new version ([1dbc057](https://github.com/pcarillion/piepline-config-test/commit/1dbc057b72cdbcbf25be83966ac5ac9d1de7c26a))
+
 ## 1.0.0 (2022-06-18)
 
 
